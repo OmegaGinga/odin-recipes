@@ -1,0 +1,27 @@
+.Body.Apple {
+    background-color: #D4B483;
+}
+h1,
+h2{
+    text-align: center;
+}
+
+p{
+    font-family: Verdana,Tahoma, sans-serif;
+    padding-left: 10px;
+}
+
+.Body.Enchiladas{
+    background-color: #C1666B;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.Body.Spaghetti{
+    background-color: #48A9A6;
+}
