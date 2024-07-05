@@ -1,10 +1,29 @@
-* {
-    text-align: center;
+.body {
     background-color: #E4DFDA;
 }
 
+.titdiv{
+    background-color: cadetblue;
+    margin: 0px auto;
+    width: 15em;
+}
+
+.title{
+    text-align: center;
+}
+
+.box{
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    background-color: pink;
+    width: 15em;
+    height: auto;
+}
 .Recipes{
-    padding-top: 30px;
+    margin: 20px auto;
+    text-align: center;
 }
 
 .Apple{
@@ -17,4 +36,17 @@
 
 .Enchiladas{
     color: #af1a21;
+}
+
+.button-container{
+    background-color: #dba14a;
+    width: 15em;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+.button{
+    padding: 5px 50px;
+    margin-left: 50px;
+    margin-top: 40px;
 }
